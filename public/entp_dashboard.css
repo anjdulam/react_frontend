@@ -1,0 +1,91 @@
+/* .jumbotron {
+    background-size: cover;
+    padding-top: 3.5%;
+    padding-bottom: 5%;
+    text-align: center;
+    background-color: #BBB2B5;
+  } */
+
+
+
+.chip{
+    margin-right: 1em;
+   
+}
+.chipactive {
+    display: inline-block;
+    padding: 0 20px;
+    height:40px;
+    font-size: 16px;
+    line-height: 40px;
+    border-radius: 25px;
+    background-color: #BBB2B5;;
+    margin-bottom: 1em;
+    text-align: center;
+   
+  }
+  
+
+  .chipinactive {
+    display: inline-block;
+    padding: 0 20px;
+    height: 40px;
+    font-size: 16px;
+    line-height: 40px;
+    border-radius: 25px;
+    background-color:white;
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    margin-bottom: 1em;
+    text-align: center;
+ 
+  }
+  
+  .chipinactive:hover {
+    background-color:rgb(209, 207, 207);
+  }
+
+  .card {
+    
+    background-color: #F0EDFDB3;
+    border-radius: 2.5em;
+    /* padding:0.5em; */
+}
+
+.projectcard{
+    margin-top: 3em;
+    /* background-color:#D2E9E3; */
+    /* border-radius: 2em; */
+    margin-bottom: 3em;
+}
+
+
+.ss{
+    padding-top: 3em;
+    margin-left: 0em;
+    
+}
+
+
+
+.sort{
+    justify-content: left;
+}
+
+.rr{
+  padding: 3.5em;
+}
+
+.imgg{
+ 
+  padding-right: 0;
+  padding-left:0;
+  
+}
+img{
+  
+  width:100%;
+ 
+}
+
